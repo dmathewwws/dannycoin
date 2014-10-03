@@ -1,12 +1,15 @@
-Bitcoin Core integration/staging tree
+
+Dannycoin - because i can
 =====================================
+
+![dannycoin](dannycoin.jpg)
+
+What is Bitcoin?
+----------------
 
 https://www.bitcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Core Developers
-
-What is Bitcoin?
-----------------
 
 Bitcoin is an experimental new digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
